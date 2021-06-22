@@ -8,7 +8,7 @@
 
 <br>
 
-## [ INDEX ]
+### [ INDEX ]
 
 <details>
 <summary>Section 1. String</summary>
