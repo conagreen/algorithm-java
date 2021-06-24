@@ -1,4 +1,4 @@
-package com.algorithm.section1_02;
+package com.algorithm.section1.section1_02;
 
 import java.util.Scanner;
 
