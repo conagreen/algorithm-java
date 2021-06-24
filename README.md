@@ -13,8 +13,8 @@
 <details>
 <summary>Section 1. String</summary>
 
-1. [문자 찾기](https://github.com/conagreen/algorithm-java/tree/main/src/com/algorithm/section1_01)
-2. 대소문자 변환
+1. [문자 찾기](src/com/algorithm/section1_01)
+2. [대소문자 변환](src/com/algorithm/section1_02)
 3. 문장 속 단어 (indexOf(), substring())
 4. 단어 뒤집기 (StringBuilder 이용법 또는 직접뒤집기)
 5. 특정 문자 뒤집기 (toCharArray())
