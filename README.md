@@ -17,7 +17,7 @@
 2. [대소문자 변환](src/com/algorithm/section1/section1_02)
 3. [문장 속 단어 (indexOf(), substring())](src/com/algorithm/section1/section1_03)
 4. [단어 뒤집기 (StringBuilder 이용법 또는 직접뒤집기)](src/com/algorithm/section1/section1_04)
-5. 특정 문자 뒤집기 (toCharArray())
+5. [특정 문자 뒤집기 (toCharArray())](src/com/algorithm/section1/section1_05)
 6. 중복문자제거
 7. 회문문자열
 8. 유효한 팰린드롬 (replaceAll 정규식이용)
