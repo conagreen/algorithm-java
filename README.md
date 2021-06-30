@@ -20,7 +20,7 @@
 5. [특정 문자 뒤집기 (toCharArray())](src/com/algorithm/section1/section1_05)
 6. [중복문자제거](src/com/algorithm/section1/section1_06)
 7. [회문문자열](src/com/algorithm/section1/section1_07)
-8. 유효한 팰린드롬 (replaceAll 정규식이용)
+8. [유효한 팰린드롬 (replaceAll 정규식이용)](src/com/algorithm/section1/section1_08)
 9. 숫자만 추출
 10. 가장 짧은 문자거리
 11. 문자열 압축
