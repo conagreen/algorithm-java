@@ -23,7 +23,7 @@
 8. [유효한 팰린드롬 (replaceAll 정규식이용)](src/com/algorithm/section1/section1_08)
 9. [숫자만 추출](src/com/algorithm/section1/section1_09)
 10. [가장 짧은 문자거리](src/com/algorithm/section1/section1_10)
-11. 문자열 압축
+11. [문자열 압축](src/com/algorithm/section1/section1_11)
 12. 암호 (replace(), parseInt(string, 2))
 
 </details>
