@@ -24,7 +24,7 @@
 9. [숫자만 추출](src/com/algorithm/section1/section1_09)
 10. [가장 짧은 문자거리](src/com/algorithm/section1/section1_10)
 11. [문자열 압축](src/com/algorithm/section1/section1_11)
-12. 암호 (replace(), parseInt(string, 2))
+12. [암호 (replace(), parseInt(string, 2))](src/com/algorithm/section1/section1_12)
 
 </details>
 
