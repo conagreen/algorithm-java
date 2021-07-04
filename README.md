@@ -31,7 +31,7 @@
 <details>
 <summary>Section 2. Array</summary>
 
-1. 큰 수 출력하기
+1. [큰 수 출력하기](src/com/algorithm/section2/section2_01)
 2. 보이는 학생
 3. 가위바위보
 4. 피보나치 수열
