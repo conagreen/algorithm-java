@@ -36,7 +36,7 @@
 3. [가위바위보](src/com/algorithm/section2/section2_03)
 4. [피보나치 수열](src/com/algorithm/section2/section2_04)
 5. [소수 (에라토스테네스 체)](src/com/algorithm/section2/section2_05)
-6. 뒤집은 소수
+6. [뒤집은 소수](src/com/algorithm/section2/section2_06)
 7. 점수계산
 8. 등수구하기
 9. 격자판 최대합
