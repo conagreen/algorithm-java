@@ -39,7 +39,7 @@
 6. [뒤집은 소수](src/com/algorithm/section2/section2_06)
 7. [점수계산](src/com/algorithm/section2/section2_07)
 8. [등수구하기](src/com/algorithm/section2/section2_08)
-9. 격자판 최대합
+9. [격자판 최대합](src/com/algorithm/section2/section2_09)
 10. 봉우리
 11. 임시반장정하기
 12. 멘토링
