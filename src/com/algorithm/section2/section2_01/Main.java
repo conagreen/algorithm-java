@@ -24,7 +24,7 @@ public class Main {
 
 
     public List<Integer> solution(int count, int[] numArray) {
-        List<Integer> resultList = new ArrayList<>();
+    List<Integer> resultList = new ArrayList<>();
         resultList.add(numArray[0]);
 
         for (int i = 1; i < count; i++) {
