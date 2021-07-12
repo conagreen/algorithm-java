@@ -41,7 +41,7 @@
 8. [등수구하기](src/com/algorithm/section2/section2_08)
 9. [격자판 최대합](src/com/algorithm/section2/section2_09)
 10. [봉우리](src/com/algorithm/section2/section2_10)
-11. 임시반장정하기
+11. [임시반장 정하기](src/com/algorithm/section2/section2_11/Main.java)
 12. 멘토링
 </details>
 
