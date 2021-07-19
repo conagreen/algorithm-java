@@ -52,7 +52,7 @@
 2. [공통원소 구하기(two pointers algorithm)](src/com/algorithm/section3/section3_02)
 3. [최대 매출 (Sliding window)](src/com/algorithm/section3/section3_03)
 4. [연속부분 수열 (복합적 문제)](src/com/algorithm/section3/section3_04)
-5. 연속된 자연수의 합 (two pointers)
+5. [연속된 자연수의 합 (two pointers)](src/com/algorithm/section3/section3_05)
 6. 연속된 자연수의 합 (수학)
 7. 최대 길이 연속부분 수열 (복합적 문제)
 </details>
