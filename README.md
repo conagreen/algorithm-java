@@ -60,7 +60,7 @@
 <details>
 <summary>Section 4. HashMap, TreeSet</summary>
 
-1. 학급 회장
+1. [학급 회장](src/com/algorithm/section4/section4_01)
 2. 아나그램 (HashMap)
 3. 매출액의 종류 (Hash, sliding window)
 4. 모든 아나그램 찾기 (Hash, sliding window : 시간복잡도 O(n))
