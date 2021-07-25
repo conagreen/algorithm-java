@@ -64,7 +64,7 @@
 2. [아나그램 (HashMap)](src/com/algorithm/section4/section4_02)
 3. [매출액의 종류 (Hash, sliding window)](src/com/algorithm/section4/section4_03)
 4. [모든 아나그램 찾기 (Hash, sliding window : 시간복잡도 O(n))](src/com/algorithm/section4/section4_04)
-5. K번째 큰 수
+5. [K번째 큰 수](src/com/algorithm/section4/section4_05)
 </details>
 
 <details>
