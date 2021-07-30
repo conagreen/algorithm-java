@@ -76,7 +76,7 @@
 4. [후위식 연산(postfix)](src/com/algorithm/section5/section5_04)
 5. [쇠막대기](src/com/algorithm/section5/section5_05)
 6. [공주 구하기](src/com/algorithm/section5/section5_06)
-7. 교육과정 설계
+7. [교육과정 설계](src/com/algorithm/section5/section5_07)
 8. 응급실
 </details>
 
