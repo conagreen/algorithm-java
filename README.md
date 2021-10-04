@@ -83,7 +83,7 @@
 <details>
 <summary>Section 6. Sorting and Searching</summary>
 
-1. 선택정렬
+1. [선택정렬](src/com/algorithm/section6/section6_01)
 2. 버블정렬
 3. 삽입정렬
 4. LRU (캐시, 카카오 변형)
