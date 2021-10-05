@@ -86,7 +86,7 @@
 1. [선택정렬](src/com/algorithm/section6/section6_01)
 2. [버블정렬](src/com/algorithm/section6/section6_02)
 3. [삽입정렬](src/com/algorithm/section6/section6_03)
-4. LRU (캐시, 카카오 변형)
+4. [LRU (캐시, 카카오 변형)](src/com/algorithm/section6/section6_04)
 5. 중복확인
 6. 장난꾸러기
 7. 좌표 정렬 (compareTo)
