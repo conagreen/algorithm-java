@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary>Section 3. Tow pointers, Sliding window</summary>
+<summary>Section 3. Two pointers, Sliding window</summary>
 
 1. [두 배열 합치기 (two pointers algorithm)](src/com/algorithm/section3/section3_01)
 2. [공통원소 구하기(two pointers algorithm)](src/com/algorithm/section3/section3_02)
@@ -87,7 +87,7 @@
 2. [버블정렬](src/com/algorithm/section6/section6_02)
 3. [삽입정렬](src/com/algorithm/section6/section6_03)
 4. [LRU (캐시, 카카오 변형)](src/com/algorithm/section6/section6_04)
-5. 중복확인
+5. [중복확인](src/com/algorithm/section6/section6_05)
 6. 장난꾸러기
 7. 좌표 정렬 (compareTo)
 8. 이분검색
