@@ -27,7 +27,6 @@ public class Main {
     private char solution(int[] arr) {
         boolean result = isDuplicated(arr);
 
-        Arrays.sort(arr);
         return result ? 'D' : 'U';
     }
 
