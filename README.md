@@ -89,7 +89,7 @@
 4. [LRU (캐시, 카카오 변형)](src/com/algorithm/section6/section6_04)
 5. [중복확인](src/com/algorithm/section6/section6_05)
 6. [장난꾸러기](src/com/algorithm/section6/section6_06)
-7. 좌표 정렬 (compareTo)
+7. [좌표 정렬 (compareTo)](src/com/algorithm/section6/section6_07)
 8. 이분검색
 9. 뮤직비디오 (결정알고리즘)
 10. 마구간 정하기(결정알고리즘)
