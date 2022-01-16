@@ -91,7 +91,7 @@
 6. [장난꾸러기](src/com/algorithm/section6/section6_06)
 7. [좌표 정렬 (compareTo)](src/com/algorithm/section6/section6_07)
 8. [이분검색](src/com/algorithm/section6/section6_08)
-9. 뮤직비디오 (결정알고리즘)
+9. [뮤직비디오 (결정알고리즘)](src/com/algorithm/section6/section6_09)
 10. 마구간 정하기(결정알고리즘)
 </details>
 
