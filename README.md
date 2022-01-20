@@ -100,7 +100,7 @@
 
 1. [재귀함수 (스택프레임)](src/com/algorithm/section7/section7_01)
 2. [이진수 출력 (재귀)](src/com/algorithm/section7/section7_02)
-3. 팩토리얼
+3. [팩토리얼](src/com/algorithm/section7/section7_03)
 4. 피보나치 재귀 (메모이제이션)
 5. 이진트리순회 (DFS : Depth-First Search)
 6. 부분집합 구하기 (DFS)
