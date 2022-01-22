@@ -102,7 +102,7 @@
 2. [이진수 출력 (재귀)](src/com/algorithm/section7/section7_02)
 3. [팩토리얼](src/com/algorithm/section7/section7_03)
 4. [피보나치 재귀 (메모이제이션)](src/com/algorithm/section7/section7_04)
-5. 이진트리순회 (DFS : Depth-First Search)
+5. [이진트리순회 (DFS : Depth-First Search)](src/com/algorithm/section7/section7_05)
 6. 부분집합 구하기 (DFS)
 7. 이진트리 레벨탐색 (BFS : Breadth-First Search)
 8. 송아지 찾기1 (BFS)
