@@ -104,7 +104,7 @@
 4. [피보나치 재귀 (메모이제이션)](src/com/algorithm/section7/section7_04)
 5. [이진트리순회 (DFS : Depth-First Search)](src/com/algorithm/section7/section7_05)
 6. [부분집합 구하기 (DFS)](src/com/algorithm/section7/section7_06)
-7. 이진트리 레벨탐색 (BFS : Breadth-First Search)
+7. [이진트리 레벨탐색 (BFS : Breadth-First Search)](src/com/algorithm/section7/section7_07)
 8. 송아지 찾기1 (BFS)
 9. Tree 말단노드까지의 까장 짧은 경로 (DFS)
 10. Tree 말단노드까지의 까장 짧은 경로 (BFS)
