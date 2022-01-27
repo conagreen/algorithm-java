@@ -107,7 +107,7 @@
 7. [이진트리 레벨탐색 (BFS : Breadth-First Search)](src/com/algorithm/section7/section7_07)
 8. [송아지 찾기1 (BFS)](src/com/algorithm/section7/section7_08)
 9. [Tree 말단노드까지의 가장 짧은 경로 (DFS)](src/com/algorithm/section7/section7_09)
-10. Tree 말단노드까지의 가장 짧은 경로 (BFS)
+10. [Tree 말단노드까지의 가장 짧은 경로 (BFS)](src/com/algorithm/section7/section7_10)
 11. 그래프와 인접행렬
 12. 경로탐색 (DFS)
 13. 경로탐색 (인접리스트, ArrayList)
