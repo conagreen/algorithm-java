@@ -108,10 +108,9 @@
 8. [송아지 찾기1 (BFS)](src/com/algorithm/section7/section7_08)
 9. [Tree 말단노드까지의 가장 짧은 경로 (DFS)](src/com/algorithm/section7/section7_09)
 10. [Tree 말단노드까지의 가장 짧은 경로 (BFS)](src/com/algorithm/section7/section7_10)
-11. 그래프와 인접행렬
-12. 경로탐색 (DFS)
-13. 경로탐색 (인접리스트, ArrayList)
-14. 그래프 최단거리 (BFS)
+11. [경로탐색 (DFS)](src/com/algorithm/section7/section7_11)
+12. 경로탐색 (인접리스트, ArrayList)
+13. 그래프 최단거리 (BFS)
 </details>
 
 <details>
