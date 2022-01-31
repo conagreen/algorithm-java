@@ -110,7 +110,7 @@
 10. [Tree 말단노드까지의 가장 짧은 경로 (BFS)](src/com/algorithm/section7/section7_10)
 11. [경로탐색 (DFS)](src/com/algorithm/section7/section7_11)
 12. [경로탐색 (인접리스트, ArrayList)](src/com/algorithm/section7/section7_12)
-13. 그래프 최단거리 (BFS)
+13. [그래프 최단거리 (BFS)](src/com/algorithm/section7/section7_13)
 </details>
 
 <details>
