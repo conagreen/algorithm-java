@@ -116,7 +116,7 @@
 <details>
 <summary>Section 8. DFS, BFS 활용</summary>
 
-1. 합이 같은 부분집합
+1. [합이 같은 부분집합](src/com/algorithm/section8/section8_01)
 2. 바둑이 승차
 3. 최대점수 구하기
 4. 중복순열
