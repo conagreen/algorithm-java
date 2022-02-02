@@ -118,7 +118,7 @@
 
 1. [합이 같은 부분집합 (DFS: 아마존 인터뷰)](src/com/algorithm/section8/section8_01)
 2. [바둑이 승차 (DFS)](src/com/algorithm/section8/section8_02)
-3. 최대점수 구하기
+3. [최대점수 구하기 (DFS)](src/com/algorithm/section8/section8_03)
 4. 중복순열
 5. 동전교환
 6. 순열 구하기
