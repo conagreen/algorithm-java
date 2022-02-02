@@ -116,8 +116,8 @@
 <details>
 <summary>Section 8. DFS, BFS 활용</summary>
 
-1. [합이 같은 부분집합](src/com/algorithm/section8/section8_01)
-2. 바둑이 승차
+1. [합이 같은 부분집합 (DFS: 아마존 인터뷰)](src/com/algorithm/section8/section8_01)
+2. [바둑이 승차 (DFS)](src/com/algorithm/section8/section8_02)
 3. 최대점수 구하기
 4. 중복순열
 5. 동전교환
