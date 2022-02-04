@@ -120,7 +120,7 @@
 2. [바둑이 승차 (DFS)](src/com/algorithm/section8/section8_02)
 3. [최대점수 구하기 (DFS)](src/com/algorithm/section8/section8_03)
 4. [중복순열 구하기](src/com/algorithm/section8/section8_04)
-5. 동전교환
+5. [동전교환](src/com/algorithm/section8/section8_05)
 6. 순열 구하기
 7. 조합수 (메모이제이션)
 8. 수열 추측하기
