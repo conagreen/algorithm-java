@@ -122,7 +122,7 @@
 4. [중복순열 구하기](src/com/algorithm/section8/section8_04)
 5. [동전교환](src/com/algorithm/section8/section8_05)
 6. [순열 구하기](src/com/algorithm/section8/section8_06)
-7. 조합수 (메모이제이션)
+7. [조합수 (메모이제이션)](src/com/algorithm/section8/section8_07)
 8. 수열 추측하기
 9. 조합 구하기
 10. 미로탐색 (DFS)
