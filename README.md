@@ -126,7 +126,7 @@
 8. [수열 추측하기](src/com/algorithm/section8/section8_08)
 9. [조합 구하기](src/com/algorithm/section8/section8_09)
 10. [미로탐색 (DFS)](src/com/algorithm/section8/section8_10)
-11. 미로의 최단거리 통로 (BFS)
+11. [미로의 최단거리 통로 (BFS)](src/com/algorithm/section8/section8_11)
 12. 토마토 (BFS)
 13. 섬나라 아일랜드 (DFS)
 14. 섬나라 아일랜드 (BFS)
