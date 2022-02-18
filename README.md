@@ -129,8 +129,7 @@
 11. [미로의 최단거리 통로 (BFS)](src/com/algorithm/section8/section8_11)
 12. [토마토 (BFS)](src/com/algorithm/section8/section8_12)
 13. [섬나라 아일랜드 (DFS)](src/com/algorithm/section8/section8_13)
-14. 섬나라 아일랜드 (BFS)
-15. 피자배달거리 (DFS)
+14. [피자배달거리 (삼성 SW역량평가 기출문제 : DFS활용)](src/com/algorithm/section8/section8_14)
 </details>
 
 <details>
@@ -147,7 +146,7 @@
 </details>
 
 <details>
-<summary>Section 10. dynamic programming</summary>
+<summary>Section 10. Dynamic programming</summary>
 
 1. 계단오르기
 2. 돌다리 건너기
