@@ -136,7 +136,7 @@
 <summary>Section 9. Greedy Algorithm</summary>
 
 1. [씨름선수](src/com/algorithm/section9/section9_01)
-2. 회의실 배정
+2. [회의실 배정](src/com/algorithm/section9/section9_02)
 3. 결혼식
 4. 최대수입스케쥴 (PriorityQueue)
 5. 다익스트라 알고리즘
