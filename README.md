@@ -137,7 +137,7 @@
 
 1. [씨름선수](src/com/algorithm/section9/section9_01)
 2. [회의실 배정](src/com/algorithm/section9/section9_02)
-3. 결혼식
+3. [결혼식](src/com/algorithm/section9/section9_03)
 4. 최대수입스케쥴 (PriorityQueue)
 5. 다익스트라 알고리즘
 6. 친구인가 (Uion & Find)
