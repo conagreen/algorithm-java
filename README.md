@@ -138,8 +138,8 @@
 1. [씨름선수](src/com/algorithm/section9/section9_01)
 2. [회의실 배정](src/com/algorithm/section9/section9_02)
 3. [결혼식](src/com/algorithm/section9/section9_03)
-4. [최대수입스케쥴 (PriorityQueue)](src/com/algorithm/section9/section9_04)
-5. 다익스트라 알고리즘
+4. [최대 수입 스케줄 (PriorityQueue)](src/com/algorithm/section9/section9_04)
+5. [다익스트라 알고리즘](src/com/algorithm/section9/section9_05)
 6. 친구인가 (Uion & Find)
 7. 원더랜드 (크루스칼 : Uion & Find)
 8. 원더랜드 (프림 : PriorityQueue)
