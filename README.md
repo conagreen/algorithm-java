@@ -148,7 +148,7 @@
 <details>
 <summary>Section 10. Dynamic programming</summary>
 
-1. 계단오르기
+1. [계단오르기](src/com/algorithm/section10/section10_01)
 2. 돌다리 건너기
 3. 최대부분증가수열 (LIS)
 4. 가장 높은 탑 쌓기 (LIS 응용)
