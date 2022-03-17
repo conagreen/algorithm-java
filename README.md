@@ -142,7 +142,7 @@
 5. [다익스트라 알고리즘](src/com/algorithm/section9/section9_05)
 6. [친구인가 (Uion & Find)](src/com/algorithm/section9/section9_06)
 7. [원더랜드 (크루스칼 : Uion & Find)](src/com/algorithm/section9/section9_07)
-8. 원더랜드 (프림 : PriorityQueue)
+8. [원더랜드 (프림 : PriorityQueue)](src/com/algorithm/section9/section9_08)
 </details>
 
 <details>
