@@ -150,8 +150,8 @@
 
 1. [계단오르기](src/com/algorithm/section10/section10_01)
 2. [돌다리 건너기](src/com/algorithm/section10/section10_02)
-3. [최대부분 증가 수열 (LIS)](src/com/algorithm/section10/section10_03)
-4. 가장 높은 탑 쌓기 (LIS 응용)
+3. [최대 부분 증가 수열 (LIS)](src/com/algorithm/section10/section10_03)
+4. [가장 높은 탑 쌓기 (LIS 응용)](src/com/algorithm/section10/section10_04)
 5. 동전교환 (냅색 알고리즘)
 6. 최대점수 구하기 (냅색 알고리즘)
 7. 풀어보면 좋은 문제 목록
