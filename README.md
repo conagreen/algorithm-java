@@ -156,5 +156,11 @@
 6. [최대점수 구하기 (냅색 알고리즘)](src/com/algorithm/section10/section10_06)
 </details>
 
+<details>
+<summary>Section 11. 1일 1알고리즘 in 2022</summary>
+
+1. [특정 요일 구하기](src/com/algorithm/level_01/특정_요일_구하기)
+
+</details>
 
 
