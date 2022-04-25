@@ -160,6 +160,7 @@
 <summary>Section 11. 1일 1알고리즘 in 2022</summary>
 
 1. [특정 요일 구하기](src/com/algorithm/level_01/특정_요일_구하기)
+2. [짝수 홀수 구분](src/com/algorithm/level_01/짝수_홀수_구분)
 
 </details>
 
