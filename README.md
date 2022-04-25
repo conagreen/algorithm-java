@@ -161,6 +161,7 @@
 
 1. [특정 요일 구하기](src/com/algorithm/level_01/특정_요일_구하기)
 2. [짝수 홀수 구분](src/com/algorithm/level_01/짝수_홀수_구분)
+2. [증가하는 숫자](src/com/algorithm/level_01/증가하는_숫자)
 
 </details>
 
