@@ -166,6 +166,7 @@
 5. [벌집](src/com/algorithm/level_01/벌집)
 6. [분수 찾기](src/com/algorithm/level_01/분수_찾기)
 7. [달팽이는 올라가고 싶다](src/com/algorithm/level_01/달팽이는_올라가고_싶다)
+8. [다이얼](src/com/algorithm/level_01/다이얼)
 
 </details>
 
