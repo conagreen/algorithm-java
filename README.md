@@ -170,6 +170,7 @@
 9. [그룹 단어 체커](src/com/algorithm/level_01/그룹_단어_체커)
 10. [알람 시계](src/com/algorithm/level_01/알람시계)
 11. [윤년](src/com/algorithm/level_01/윤년)
+11. [셀프 넘버](src/com/algorithm/level_01/셀프_넘버)
 
 </details>
 
