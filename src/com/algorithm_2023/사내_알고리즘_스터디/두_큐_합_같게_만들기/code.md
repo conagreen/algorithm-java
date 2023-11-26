@@ -4,14 +4,11 @@
 
 <br>
 
-### **[ INDEX ]**
-<details>
-<summary>1. 문제 링크</summary>
 
+### 1. 문제 링크
 [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
-</details>
-<details>
-<summary>2. 문제 풀이</summary>
+
+### 2. 문제 풀이
 
 ```java
 public class Main {
@@ -72,10 +69,4 @@ public class Main {
     1. 두 큐의 값이 동일할 수 없는 케이스 존재 -> -1 반환 
     2. 이때, 반복문이 종료될 수 있는 설정을 하지 않는다면 무한 반복으로 인해 타임아웃 발생
     3. 반복문이 종료되는 조건의 기준은 시간 복잡도를 기준으로 설정 (두 배열의 길이 합 x 3) 
-
-</details>
-<details>
-<summary>3. 코드 결과</summary>
-
-![](mijin-result.png)
-</details>
+   

@@ -4,14 +4,11 @@
 
 <br>
 
-### **[ INDEX ]**
-<details>
-<summary>1. 문제 링크</summary>
+### 1. 문제 링크
 
 [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
-</details>
-<details>
-<summary>2. 문제 풀이</summary>
+
+### 2. 문제 풀이
 
 ```java
 public class Solution {
@@ -87,10 +84,3 @@ public class Solution {
 - 재귀 함수를 통해 경우의 수가 완성될 때마다 해당 경우의 수를 인자로 넘겨 가입자 수와 매출액을 계산한다.
 - 즉, 재귀의 탈출 조건은 하나의 경우의 수가 완성되는 시점이다.
 - 파라미터로 넘어온 경우의 수로 계산된 가입자 수와 매출액을 최대 가입자 수와 최대 매출액과 비교하여 값을 치환해 준다.
-
-</details>
-<details>
-<summary>3. 코드 결과</summary>
-
-![](mijin-result.png)
-</details>

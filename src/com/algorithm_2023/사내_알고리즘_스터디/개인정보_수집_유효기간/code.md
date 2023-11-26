@@ -6,9 +6,8 @@
 
 ### 1. 문제 링크
 [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
-<details>
-<summary>2. 문제 풀이</summary>
 
+### 2. 문제 풀이
 ```java
 public class Solution {
     static Map<String, Integer> termsMap = new HashMap<>();
@@ -55,14 +54,8 @@ public class Solution {
 ```
 
 **[ 시간 복잡도 - O(n) ]**
-</details>
-<details>
-<summary>3. 코드 결과</summary>
 
-![](mijin-result.png)
-</details>
-<details>
-<summary>[번외] 객체지향 리팩토링 연습</summary>
+### 3. 객체지향 리팩토링 연습
 
 ```java
 public class Solution {
@@ -155,4 +148,3 @@ public class Solution {
     }
 }
 ```
-</details>

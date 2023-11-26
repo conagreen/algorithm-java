@@ -4,14 +4,11 @@
 
 <br>
 
-### **[ INDEX ]**
-<details>
-<summary>1. 문제 링크</summary>
+### 1. 문제 링크
 
 [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
-</details>
-<details>
-<summary>2. 문제 풀이</summary>
+
+### 2. 문제 풀이
 
 ```java
 public class Solution {
@@ -59,9 +56,3 @@ public class Solution {
 ```
 
 **[ 시간 복잡도 - O(n) ]**
-</details>
-<details>
-<summary>3. 코드 결과</summary>
-
-![](mijin-result.png)
-</details>
