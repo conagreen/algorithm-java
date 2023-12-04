@@ -20,7 +20,9 @@
 
 </details>
 <details>
-<summary>02. 다시 풀어보기 (인프런 유료 강의로 문제 공개는 X) </summary>
+<summary>02. 다시 풀어보기 (인프런 유료 강의 문제이기 때문에 문제 공개는 X) </summary>
 
+**String(문자열)**
 1. [문자 찾기](다시_풀어보기/section_01/문자_찾기/Main.java)
+1. [대소문자 변환](다시_풀어보기/section_01/대소문자_변환/Main.java)
 </details>
