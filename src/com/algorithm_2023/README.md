@@ -24,5 +24,6 @@
 
 **String(문자열)**
 1. [문자 찾기](다시_풀어보기/section_01/문자_찾기/Main.java)
-1. [대소문자 변환](다시_풀어보기/section_01/대소문자_변환/Main.java)
+2. [대소문자 변환](다시_풀어보기/section_01/대소문자_변환/Main.java)
+3. [문장 속 단어](다시_풀어보기/section_01/문장_속_단어/Main.java)
 </details>
