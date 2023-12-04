@@ -20,5 +20,7 @@
 
 </details>
 <details>
-<summary>02. 다시 풀어보기</summary>
+<summary>02. 다시 풀어보기 (인프런 유료 강의로 문제 공개는 X) </summary>
+
+1. [문자 찾기](다시_풀어보기/section_01/문자_찾기/Main.java)
 </details>
