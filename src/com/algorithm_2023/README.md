@@ -29,4 +29,5 @@
 3. [문장 속 단어](다시_풀어보기/section_01/문장_속_단어/Main.java)
 4. [단어 뒤집기](다시_풀어보기/section_01/단어_뒤집기/Main.java)
 5. [특정 문자 뒤집기](다시_풀어보기/section_01/특정_문자_뒤집기/Main.java)
+6. [중복 문자 제거](다시_풀어보기/section_01/중복_문자_제거/Main.java)
 </details>
