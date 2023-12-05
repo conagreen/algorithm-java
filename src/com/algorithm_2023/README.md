@@ -27,5 +27,6 @@
 1. [문자 찾기](다시_풀어보기/section_01/문자_찾기/Main.java)
 2. [대소문자 변환](다시_풀어보기/section_01/대소문자_변환/Main.java)
 3. [문장 속 단어](다시_풀어보기/section_01/문장_속_단어/Main.java)
-3. [단어 뒤집기](다시_풀어보기/section_01/단어_뒤집기/Main.java)
+4. [단어 뒤집기](다시_풀어보기/section_01/단어_뒤집기/Main.java)
+5. [특정 문자 뒤집기](다시_풀어보기/section_01/특정_문자_뒤집기/Main.java)
 </details>
