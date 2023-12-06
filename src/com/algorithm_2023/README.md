@@ -30,4 +30,5 @@
 4. [단어 뒤집기](다시_풀어보기/section_01/단어_뒤집기/Main.java)
 5. [특정 문자 뒤집기](다시_풀어보기/section_01/특정_문자_뒤집기/Main.java)
 6. [중복 문자 제거](다시_풀어보기/section_01/중복_문자_제거/Main.java)
+7. [회문 문자열](다시_풀어보기/section_01/회문_문자열/Main.java)
 </details>
