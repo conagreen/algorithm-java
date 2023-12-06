@@ -32,4 +32,5 @@
 6. [중복 문자 제거](다시_풀어보기/section_01/중복_문자_제거/Main.java)
 7. [회문 문자열](다시_풀어보기/section_01/회문_문자열/Main.java)
 8. [유효한 팰린드롬](다시_풀어보기/section_01/유효한_팰린드롬/Main.java)
+9. [숫자만 추출](다시_풀어보기/section_01/숫자만_추출/Main.java)
 </details>
