@@ -2,6 +2,9 @@ package com.algorithm_2023.다시_풀어보기.section_01.가장_짧은_문자�
 
 import java.util.Scanner;
 
+/*
+* 문자열과 문자가 주어지면 문자열에서 해당 문자까지의 각 최소거리를 출력
+* */
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
