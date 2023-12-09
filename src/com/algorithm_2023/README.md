@@ -23,7 +23,7 @@
 <details>
 <summary>02. 다시 풀어보기 (인프런 유료 강의 문제이기 때문에 문제 공개는 X) </summary>
 
-**String(문자열)**
+**section 01 - String(문자열)**
 1. [문자 찾기](다시_풀어보기/section_01/문자_찾기/Main.java)
 2. [대소문자 변환](다시_풀어보기/section_01/대소문자_변환/Main.java)
 3. [문장 속 단어](다시_풀어보기/section_01/문장_속_단어/Main.java)
@@ -36,4 +36,7 @@
 10. [가장 짧은 문자거리](다시_풀어보기/section_01/가장_짧은_문자거리/Main.java)
 11. [문자열 압축](다시_풀어보기/section_01/문자열_압축/Main.java)
 11. [암호](다시_풀어보기/section_01/암호/Main.java)
+
+**section 02 - Array(1차원, 2차원)**
+1. [큰 수 출력하기](다시_풀어보기/section_02/큰_수_출력하기/Main.java)
 </details>
