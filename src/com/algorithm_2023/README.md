@@ -35,4 +35,5 @@
 9. [숫자만 추출](다시_풀어보기/section_01/숫자만_추출/Main.java)
 10. [가장 짧은 문자거리](다시_풀어보기/section_01/가장_짧은_문자거리/Main.java)
 11. [문자열 압축](다시_풀어보기/section_01/문자열_압축/Main.java)
+11. [암호](다시_풀어보기/section_01/암호/Main.java)
 </details>
