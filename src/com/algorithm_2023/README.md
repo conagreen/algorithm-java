@@ -40,4 +40,5 @@
 
 **section 02 - Array(1차원, 2차원)**
 1. [큰 수 출력하기](다시_풀어보기/section_02/큰_수_출력하기/Main.java)
+1. [보이는 학생](다시_풀어보기/section_02/보이는_학생/Main.java)
 </details>
