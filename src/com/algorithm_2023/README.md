@@ -42,4 +42,5 @@
 1. [큰 수 출력하기](다시_풀어보기/section_02/큰_수_출력하기/Main.java)
 2. [보이는 학생](다시_풀어보기/section_02/보이는_학생/Main.java)
 3. [가위 바위 보](다시_풀어보기/section_02/가위_바위_보/Main.java)
+4. [피보나치 수열](다시_풀어보기/section_02/피보나치_수열/Main.java)
 </details>
