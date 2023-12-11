@@ -36,9 +36,10 @@
 9. [숫자만 추출](다시_풀어보기/section_01/숫자만_추출/Main.java)
 10. [가장 짧은 문자거리](다시_풀어보기/section_01/가장_짧은_문자거리/Main.java)
 11. [문자열 압축](다시_풀어보기/section_01/문자열_압축/Main.java)
-11. [암호](다시_풀어보기/section_01/암호/Main.java)
+12. [암호](다시_풀어보기/section_01/암호/Main.java)
 
 **section 02 - Array(1차원, 2차원)**
 1. [큰 수 출력하기](다시_풀어보기/section_02/큰_수_출력하기/Main.java)
-1. [보이는 학생](다시_풀어보기/section_02/보이는_학생/Main.java)
+2. [보이는 학생](다시_풀어보기/section_02/보이는_학생/Main.java)
+3. [가위 바위 보](다시_풀어보기/section_02/가위_바위_보/Main.java)
 </details>
