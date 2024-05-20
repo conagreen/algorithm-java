@@ -12,3 +12,4 @@
 - [2021](src/com/algorithm_2021_2022)
 - [2022](src/com/algorithm_2021_2022)
 - [2023](src/com/algorithm_2023)
+- [2024](src/com/algorithm_2024)
