@@ -21,6 +21,7 @@
 <summary>01. 배열</summary>
 
 1. [알파벳 개수](section02_배열/알파벳_개수/Main.java)
-1. [숫자의 개수](section02_배열/숫자의_개수/Main.java)
+2. [숫자의 개수](section02_배열/숫자의_개수/Main.java)
+3. [개수 세기](section02_배열/개수_세기/Main.java)
 
 </details>
