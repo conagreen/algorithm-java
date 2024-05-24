@@ -18,11 +18,17 @@
 
 </details>
 <details>
-<summary>01. 배열</summary>
+<summary>02. 배열</summary>
 
 1. [알파벳 개수](section02_배열/알파벳_개수/Main.java)
 2. [숫자의 개수](section02_배열/숫자의_개수/Main.java)
 3. [개수 세기](section02_배열/개수_세기/Main.java)
 4. [방 번호](section02_배열/방_번호/Main.java)
+
+</details>
+<details>
+<summary>03. 연결 리스트</summary>
+
+1. [에디터](section03_연결리스트/에디터/Main.java)
 
 </details>
