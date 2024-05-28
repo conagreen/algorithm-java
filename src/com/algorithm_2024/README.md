@@ -30,5 +30,6 @@
 <summary>03. 연결 리스트</summary>
 
 1. [에디터](section03_연결리스트/에디터/Main.java)
+2. [요세푸스 문제](section03_연결리스트/요세푸스_문제/Main.java)
 
 </details>
