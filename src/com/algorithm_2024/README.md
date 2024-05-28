@@ -15,6 +15,7 @@
 2. [O(N^2)](section01_기초/section01_02/Solution.java)
 3. [O(sqrt(n))](section01_기초/section01_03/Solution.java)
 4. [O(logN)](section01_기초/section01_04/Solution.java)
+5. [X보다 작은 수](section01_기초/X보다_작은_수/Main.java)
 
 </details>
 <details>
