@@ -39,5 +39,6 @@
 
 1. [스택](section04_스택/스택/Main.java)
 2. [제로](section04_스택/제로/Main.java)
+3. [스택 수열](section04_스택/스택_수열/Main.java)
 
 </details>
