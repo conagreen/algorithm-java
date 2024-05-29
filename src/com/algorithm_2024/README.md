@@ -34,3 +34,9 @@
 2. [요세푸스 문제](section03_연결리스트/요세푸스_문제/Main.java)
 
 </details>
+<details>
+<summary>04. 스택</summary>
+
+1. [스택](section04_스택/스택/Main.java)
+
+</details>
