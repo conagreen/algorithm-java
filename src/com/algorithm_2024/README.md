@@ -38,5 +38,6 @@
 <summary>04. 스택</summary>
 
 1. [스택](section04_스택/스택/Main.java)
+2. [제로](section04_스택/제로/Main.java)
 
 </details>
