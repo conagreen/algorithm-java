@@ -52,3 +52,9 @@
 3. [카드2](section05_큐/카드2/Main.java)
 
 </details>
+<details>
+<summary>06. 덱</summary>
+
+1. [덱](section06_덱/덱/Main.java)
+
+</details>
