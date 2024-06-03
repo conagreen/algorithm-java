@@ -48,5 +48,6 @@
 <summary>05. 큐</summary>
 
 1. [큐](section05_큐/큐/Main.java)
+2. [큐2](section05_큐/큐2/Main.java)
 
 </details>
