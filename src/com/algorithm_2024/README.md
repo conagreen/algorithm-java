@@ -56,5 +56,6 @@
 <summary>06. 덱</summary>
 
 1. [덱](section06_덱/덱/Main.java)
+2. [회전하는 큐](section06_덱/회전하는_큐/Main.java)
 
 </details>
