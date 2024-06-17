@@ -43,7 +43,8 @@
 3. [스택 수열](section04_스택/스택_수열/Main.java)
 4. [탑](section04_스택/탑/Main.java)
 5. [균형잡힌 세상](section04_스택/균형잡힌_세상/Main.java)
-5. [좋은 단어](section04_스택/좋은_단어/Main.java)
+6. [좋은 단어](section04_스택/좋은_단어/Main.java)
+7. [쇠막대기](section04_스택/쇠막대기/Main.java)
 
 </details>
 <details>
