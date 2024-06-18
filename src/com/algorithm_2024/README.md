@@ -45,6 +45,7 @@
 5. [균형잡힌 세상](section04_스택/균형잡힌_세상/Main.java)
 6. [좋은 단어](section04_스택/좋은_단어/Main.java)
 7. [쇠막대기](section04_스택/쇠막대기/Main.java)
+8. [괄호의 값](section04_스택/괄호의_값/Main.java)
 
 </details>
 <details>
