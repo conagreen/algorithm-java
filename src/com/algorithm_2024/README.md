@@ -68,5 +68,6 @@
 <summary>07. 투 포인터 & 슬라이딩 윈도우</summary>
 
 1. [두 배열 합치기](section07_투포인터_슬라이딩윈도우/두_배열_합치기/Main.java)
+2. [최대 매출](section07_투포인터_슬라이딩윈도우/최대_매출/Main.java)
 
 </details>
