@@ -80,5 +80,6 @@
 
 1. [학급 회장](section08_HashMap_TreeSet/학급_회장/Main.java)
 2. [모든 아나그램 찾기](section08_HashMap_TreeSet/모든_아나그램_찾기/Main.java)
+3. [K번째 큰 수](section08_HashMap_TreeSet/K번째_큰_수/Main.java)
 
 </details>
