@@ -75,3 +75,9 @@
 6. [최대 길이 연속부분 수열](section07_투포인터_슬라이딩윈도우/최대_길이_연속부분_수열/Main.java)
 
 </details>
+<details>
+<summary>08. HashMap & TreeSet </summary>
+
+1. [학급 회장](section08_HashMap_TreeSet/학급_회장/Main.java)
+
+</details>
