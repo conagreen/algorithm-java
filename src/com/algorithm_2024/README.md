@@ -88,3 +88,9 @@
 3. [K번째 큰 수](section08_HashMap_TreeSet/K번째_큰_수/Main.java)
 
 </details>
+<details>
+<summary>09. 정렬, 이분 검색과 결정 알고리즘 </summary>
+
+1. [선택정렬](section09_정렬/선택정렬/Main.java)
+
+</details>
