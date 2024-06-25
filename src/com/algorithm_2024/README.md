@@ -56,6 +56,7 @@
 1. [큐](section05_큐/큐/Main.java)
 2. [큐2](section05_큐/큐2/Main.java)
 3. [카드2](section05_큐/카드2/Main.java)
+4. [공주 구하기](section05_큐/공주_구하기/Main.java)
 
 </details>
 <details>
