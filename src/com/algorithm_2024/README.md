@@ -92,5 +92,6 @@
 <summary>09. 정렬, 이분 검색과 결정 알고리즘 </summary>
 
 1. [선택정렬](section09_정렬/선택정렬/Main.java)
+2. [버블정렬](section09_정렬/버블정렬/Main.java)
 
 </details>
