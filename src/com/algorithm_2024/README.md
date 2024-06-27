@@ -94,5 +94,6 @@
 1. [선택정렬](section09_정렬/선택정렬/Main.java)
 2. [버블정렬](section09_정렬/버블정렬/Main.java)
 3. [삽입정렬](section09_정렬/삽입정렬/Main.java)
+4. [중복확인](section09_정렬/중복확인/Main.java)
 
 </details>
