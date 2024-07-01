@@ -98,5 +98,6 @@
 5. [LRU](section09_정렬/LRU/Main.java)
 6. [이분검색](section09_정렬/이분검색/Main.java)
 7. [장난꾸러기](section09_정렬/장난꾸러기/Main.java)
+8. [좌표정렬](section09_정렬/좌표정렬/Main.java)
 
 </details>
