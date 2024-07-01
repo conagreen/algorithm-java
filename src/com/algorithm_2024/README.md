@@ -96,5 +96,7 @@
 3. [삽입정렬](section09_정렬/삽입정렬/Main.java)
 4. [중복확인](section09_정렬/중복확인/Main.java)
 5. [LRU](section09_정렬/LRU/Main.java)
+6. [이분검색](section09_정렬/이분검색/Main.java)
+7. [장난꾸러기](section09_정렬/장난꾸러기/Main.java)
 
 </details>
