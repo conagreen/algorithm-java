@@ -103,3 +103,9 @@
 10. [마구간 정하기](section09_정렬/마구간_정하기/Main.java)
 
 </details>
+<details>
+<summary>10. DFS & BFS </summary>
+
+1. [재귀함수](section10_DFS_BFS/재귀함수/Main.java)
+
+</details>
