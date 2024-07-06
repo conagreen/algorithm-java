@@ -107,5 +107,6 @@
 <summary>10. DFS & BFS </summary>
 
 1. [재귀함수](section10_DFS_BFS/재귀함수/Main.java)
+2. [팩토리얼](section10_DFS_BFS/팩토리얼/Main.java)
 
 </details>
