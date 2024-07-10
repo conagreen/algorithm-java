@@ -110,5 +110,6 @@
 2. [팩토리얼](section10_DFS_BFS/팩토리얼/Main.java)
 3. [피보나치 수열](section10_DFS_BFS/피보나치_수열/Main.java)
 4. [이진트리 순회](section10_DFS_BFS/이진트리_순회/Main.java)
+5. [부분집합 구하기](section10_DFS_BFS/부분집합_구하기/Main.java)
 
 </details>
