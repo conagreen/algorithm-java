@@ -109,7 +109,8 @@
 1. [재귀함수](section10_DFS_BFS/재귀함수/Main.java)
 2. [팩토리얼](section10_DFS_BFS/팩토리얼/Main.java)
 3. [피보나치 수열](section10_DFS_BFS/피보나치_수열/Main.java)
-4. [이진트리 순회](section10_DFS_BFS/이진트리_순회/Main.java)
+4. [이진트리 순회 - DFS](section10_DFS_BFS/이진트리_순회/Main.java)
 5. [부분집합 구하기](section10_DFS_BFS/부분집합_구하기/Main.java)
+6. [이진트리 순회 - BFS](section10_DFS_BFS/이진트리_순회_BFS/Main.java)
 
 </details>
