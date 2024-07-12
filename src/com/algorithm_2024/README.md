@@ -112,5 +112,6 @@
 4. [이진트리 순회 - DFS](section10_DFS_BFS/이진트리_순회/Main.java)
 5. [부분집합 구하기](section10_DFS_BFS/부분집합_구하기/Main.java)
 6. [이진트리 순회 - BFS](section10_DFS_BFS/이진트리_순회_BFS/Main.java)
+7. [송아지 찾기](section10_DFS_BFS/송아지_찾기/Main.java)
 
 </details>
