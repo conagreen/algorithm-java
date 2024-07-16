@@ -116,5 +116,6 @@
 8. [말단 노드까지의 가장 짧은 경로 - DFS](section10_DFS_BFS/말단_노드까지의_가장_짧은_경로_DFS/Main.java)
 9. [말단 노드까지의 가장 짧은 경로 - BFS](section10_DFS_BFS/말단_노드까지의_가장_짧은_경로_BFS/Main.java)
 10. [경로 탐색 (인접행렬) ](section10_DFS_BFS/경로_탐색_인접행렬/Main.java)
+11. [경로 탐색 (인접리스트) ](section10_DFS_BFS/경로_탐색_인접리스트/Main.java)
 
 </details>
