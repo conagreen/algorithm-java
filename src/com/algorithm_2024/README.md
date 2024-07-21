@@ -120,5 +120,6 @@
 12. [그래프 최단거리](section10_DFS_BFS/그래프_최단거리/Main.java)
 13. [합이 같은 부분집합](section10_DFS_BFS/합이_같은_부분집합/Main.java)
 14. [바둑이 승차](section10_DFS_BFS/바둑이_승차/Main.java)
+15. [최대점수 구하기](section10_DFS_BFS/최대점수_구하기/Main.java)
 
 </details>
