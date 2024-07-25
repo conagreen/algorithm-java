@@ -125,5 +125,6 @@
 17. [이모티콘 할인행사](section10_DFS_BFS/이모티콘_할인행사/Solution.java)
 18. [동전교환](section10_DFS_BFS/동전교환/Main.java)
 19. [순열 구하기](section10_DFS_BFS/순열_구하기/Main.java)
+20. [조합의 경우수 (메모이제이션)](section10_DFS_BFS/조합의_경우수/Main.java)
 
 </details>
