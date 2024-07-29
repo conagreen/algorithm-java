@@ -127,5 +127,6 @@
 19. [순열 구하기](section10_DFS_BFS/순열_구하기/Main.java)
 20. [조합의 경우수 (메모이제이션)](section10_DFS_BFS/조합의_경우수/Main.java)
 21. [수열 추측하기](section10_DFS_BFS/수열_추측하기/Main.java)
+22. [조합 구하기](section10_DFS_BFS/조합_구하기/Main.java)
 
 </details>
