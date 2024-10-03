@@ -130,5 +130,6 @@
 22. [조합 구하기](section10_DFS_BFS/조합_구하기/Main.java)
 23. [미로탐색](section10_DFS_BFS/미로탐색/Main.java)
 24. [미로의 최단거리 통로](section10_DFS_BFS/미로의_최단거리_통로/Main.java)
+25. [토마토](section10_DFS_BFS/토마토/Main.java)
 
 </details>
