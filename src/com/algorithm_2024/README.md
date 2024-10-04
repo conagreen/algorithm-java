@@ -131,5 +131,6 @@
 23. [미로탐색](section10_DFS_BFS/미로탐색/Main.java)
 24. [미로의 최단거리 통로](section10_DFS_BFS/미로의_최단거리_통로/Main.java)
 25. [토마토](section10_DFS_BFS/토마토/Main.java)
+26. [섬나라 아일랜드 (DFS)](section10_DFS_BFS/섬나라_아일랜드_DFS/Main.java)
 
 </details>
